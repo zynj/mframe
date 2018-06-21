@@ -1,0 +1,6 @@
+[submodule "gui"]
+	path = gui
+	url = git@github.com:zynj/gui.git
+[submodule "hello"]
+	path = hello
+	url = git@github.com:zynj/hello.git
